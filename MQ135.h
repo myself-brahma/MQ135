@@ -15,6 +15,7 @@ v1.0 - First release
 /**************************************************************************/
 #ifndef MQ135_H
 #define MQ135_H
+#define RZERO 494.63
 #if ARDUINO >= 100
  #include "Arduino.h"
 #else
